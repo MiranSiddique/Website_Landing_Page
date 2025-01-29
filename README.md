@@ -1,4 +1,4 @@
-# Octanet_Landing_Page
+# Landing_Page
 
 This project is a landing page designed to provide information about a company's services, contact details, and more. The landing page is built using HTML and CSS, following a clean and responsive design.
 
